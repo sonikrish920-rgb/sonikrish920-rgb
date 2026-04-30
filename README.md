@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 
 # 💫 About Me:
 Hi, I'm Krish 👋  <br><br>💻 I'm currently working on building strong fundamentals in Computer Science and improving my problem-solving skills through hands-on projects.  <br><br>🤝 I'm open to collaborating on beginner-friendly open-source projects, especially related to web development, C/C++, and core CS subjects.  <br><br>🛠 I'm looking for help with writing clean code, understanding data structures deeply, and improving project architecture.  <br><br>📚 I'm currently learning C, C++, HTML, CSS, JavaScript, and core engineering subjects alongside practical implementation.  <br><br>💡 Ask me about basic programming concepts, college-level CS subjects, or how I'm documenting my learning journey on GitHub.  <br><br>⚡ Fun fact: I believe consistency beats talent — that's why I push code even when it's imperfect.
 
